@@ -1,0 +1,34 @@
+.course-sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+    height: 100vh;
+}
+
+.course-sidebar h4 {
+    margin-bottom: 20px;
+}
+
+.course-sidebar .nav-link {
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.course-sidebar .nav-link:hover {
+    color: #dc3545;
+}
+
+.video-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#videoarea {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
